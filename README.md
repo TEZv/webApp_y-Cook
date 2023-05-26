@@ -16,13 +16,15 @@ The app has been deployed to vercel and can be interacted with at the following 
 - **Backend**: `Google Firebase`, `Yarn`, `npm`.
 
 ### Features:
-- View a list of currently available dishes.
-- Add/remove items from a shopping cart.
-- Clear the shopping cart.
-- Send the order + user info to firebase backend.
-- Highly interactive and responsive mobile-first design.
+- Have a look on the list of currently available dishes, its prices.
+- +/- items from a Shopping cart.
+- Empty the shopping cart.
+- Send the order and the user info to `Firebase` Backend DB (the link in the Cart.js).
+- Highly interactive and responsive web_app design.
 
 ### Contact Info:
 > Author: Oksana Kolisnyk
+
 > Email: zazera777@gmail.com
+
 > Telegram: @kosatik
