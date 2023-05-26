@@ -1,0 +1,13 @@
+.bg {
+  background-image: url("../../../assets/bg.jpg");
+}
+
+.noscroll::-webkit-scrollbar {
+  display: none;
+}
+
+.noscroll {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
