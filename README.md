@@ -7,7 +7,7 @@ The user can add items to the `shopping cart`, `collects information` for the or
 
 ### Deployments:
 The app has been deployed to vercel and can be interacted with at the following link: 
-
+https://webapp-y-cook.vercel.app/
 
 ### Tech Stack:
 
